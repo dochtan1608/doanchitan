@@ -83,9 +83,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/dochtan1608/dochtan1608/output/snake.svg" alt="Snake animation" />
 
 ###
 
